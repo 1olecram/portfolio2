@@ -39,7 +39,7 @@ body
 
 .apresentacao
 {
-	padding: 4% 15%;
+	padding: 6% 15%;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
@@ -115,7 +115,7 @@ body
 {
 	color: #000000;
 	background-color:#FA8072;
-	padding: 35.5px;
+	padding: 30px;
 	text-align: center;
 	font-size: 1.25rem;
 }
